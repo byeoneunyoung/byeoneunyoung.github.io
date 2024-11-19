@@ -9,7 +9,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://byeoneunyoung.github.io'
-baseurl:          "/byeoneunyoung.github.io"
+baseurl:          ""
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
