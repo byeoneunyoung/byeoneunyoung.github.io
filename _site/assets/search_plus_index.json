@@ -1,71 +1,71 @@
-{"/byeoneunyoung.github.io/others/about/": {
+{"/others/about/": {
     "title": "About others",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/others/about/",
+    "url": "/others/about/",
     "body": "This is an about page for “others” in the collections."
-  },"/byeoneunyoung.github.io/pages/about/": {
+  },"/pages/about/": {
     "title": "About",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/pages/about/",
+    "url": "/pages/about/",
     "body": "This is an about page."
-  },"/byeoneunyoung.github.io/pages/contact/": {
+  },"/pages/contact/": {
     "title": "Contact",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/pages/contact/",
+    "url": "/pages/contact/",
     "body": "This is an contact page."
-  },"/byeoneunyoung.github.io/pages/design/draft/": {
+  },"/pages/design/draft/": {
     "title": "Design Draft",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/pages/design/draft/",
+    "url": "/pages/design/draft/",
     "body": "This is an draft page."
-  },"/byeoneunyoung.github.io/jekyll/2023-12-12-footnotes.html": {
+  },"/jekyll/2024-11-20-howto.html": {
+    "title": "오버 엔지니어링을 지양합니다.",
+    "keywords": "Jekyll",
+    "url": "/jekyll/2024-11-20-howto.html",
+    "body": "# Configurations title: Jekyll Gitbook longtitle: Jekyll Gitbook remote_theme: sighingnow/jekyll-gitbook TIP No need to push generated HTML bundle."
+  },"/jekyll/2024-11-19-%EC%9D%B8%ED%84%B4%ED%9A%8C%EA%B3%A0%EB%A1%9D.html": {
+    "title": "인턴 회고록",
+    "keywords": "jekyll",
+    "url": "/jekyll/2024-11-19-%EC%9D%B8%ED%84%B4%ED%9A%8C%EA%B3%A0%EB%A1%9D.html",
+    "body": "3학년 2학기를 마치고,,, 뭔갈 해야한다는 생각과 졸업 전에 전공 관련 일을 해보고 싶다는 생각에 현장실습을 지원했고!! 감사하게도 합격했다! 내가 한 일 질문 왕 개발을 했다고 말할 수 없을 만큼 회사 서비스에 대해 이해하느라 바빴다. 제일 크게 깨달은건 질문을 많이 해야한다는 것. 이게 맞겠지? 라고 고민하지말고 물어봐야 한다. 능동적으로!! 그 이후로 궁금한게 생기면 바로바로 여쭤봤다. 모르는 게 부끄러운게 아니라는 걸 많이 깨달았다. 기능 개발 및 유지 보수 공지 게시판 만들기 가장 처음에는 팝업창만 만들었는데, 나중을 생각해서 게시판 기능까지 할 수 있도록 DB를 설계했다. 이게 처음 해보는 기능 개발이었다! 시행착오도 많았고 API 문서 실수도 많았지만 허둥지둥하며 했다. 처음엔 사소한 실수에도 난 왜이러지,,, 했는데, 이걸 계기로 ‘엇 저 이 부분 작성하는거 실수했는데, 금방 수정해 놓겠습니다!’ 하고 당차게 말하고 빠른 수정을 했다. 이게 더 중요한 것 같았다. 실수를 인정하고 빨리 수정하는 것! 그리고 이후에 시간이 좀 남아서 프론트 개발자 분과 상의해서 일정을 조율하고(PM님이 계시지 않았기 때문에) 공지 게시판 기능도 추가했다. 디비 설계할 때 미리 생각해놓길 잘 했다고 생각했다. 전시회까지 달려라! 전시회 일정까지 남은 기간 약 3주,,, 하지만 신기능 개발에 필요한 API는 약 25개,,, 처음에는 일정이 너무 타이트하다고 생각해서 불만이 많았다. 근데 갑자기 이런 생각이 들었다. 일정 안에 개발하는 것은 회사의 매출과 연관되는 부분이고, 나는 내 회사가 잘 되었으면 좋겠다! 고로, 나는 개발을 해야만 한다!! 시간을 쪼개가며, 야근도 해보면서 결국 전시회 전까지 테스트와 베타버전, 상용버전까지 모두 해냈다! 너무너무너무 뿌듯했고, 저 생각은 아직까지 변함이 없다. 앞으로 회사를 다녀도 저렇게 생각할 것 같다! 사진 업로드 개선 사용자 분들이 주로 지하나, 건물 옥상 등 네트워크 환경이 좋지 못한 곳에서 어플을 이용하셨으므로 사진 업로드가 느리다 라는 이야기를 많이 들었다. 직접 지하에 가서 사용해보기도 하면서 사용자분들의 불편함을 느꼈고, 지속적으로 개선을 위해 노력한 덕분에 개선을 했다! 이건 다른 글에 있으니 생략!! 사용자들의 피드백을 들으며 반영하는 것이 정말 재밌었다. 더 잘 사용해주셨으면 좋겠다… 생각했다. QA QA라는 것도 사실 처음 들어봤다! 근데, 생각보다 어려웠다. 우리가 생각한 시나리오 대로 사용자들이 써준다면 너무 좋겠지만, 그렇지 않기도 하기에,,, 여러가지 시나리오로 앱을 사용해보며 불편한 부분이나, 개선할 부분, 오류를 찾아냈다! 보물찾기 하듯이 했다… 뭔갈 찾아내면 너무너무 뿌듯함과 동시에 실수를 깨달아서 뭔가 신기한 기분이었다. 전시회 기계 설비 관련된 업체들이 모두 모이는 곳이었다. 공고 학생부터 업계 종사자 분들까지 여러분들이 오셨다. 우리 서비스에 대해 설명하고, 직접 피드백을 들을 수 있는 소중한 시간이었다. MBTI니 뭐니 하지만, 회사를 다니면 이런거 필요없다는 생각이 들어 열심히 했다. 고객 상담 주요 고객분들이 나이가 많으시거나, 휴대전화 사용이 익숙하지 않으신 분들이었기 때문에, 직접 구글미트를 통해 사용법을 알려드렸다. 어플 다운을 받아야하는데, 네이버에서 검색을 하시는 분들도 있었다. 처음엔 너무 당황스러웠지만, 한분한분이 소중한 고객이셨고, 사용자분들이셨기 때문에 우리가 만든걸 온전히 사용하셨으면 좋겠다고 생각했다. 그래서 더욱 열심히, 친절히, 자세하게 설명해드렸다. 서버 구조 변경 내가 가장 크게 신경 쓴 부분이다. 이전에 한 번 보안 공격을 받은 적도 있었다고 했기 때문에, 필요하다고 생각했다. AWS 공식문서, AWS 교육을 찾아들으며 공부하면서 바꿨다. 학교 수업이나 프로젝트에서 AWS를 사용해봤지만, 그냥 EC2로 배포하는 것 밖에 없었다. 블로그를 찾아보거나 GPT를 사용하기도 했는데, 블로그는 회사의 프로젝트 구조와 너무 달랐고 GPT는 환각때문에 그럴듯하게 만들어줬다. 그래서 그냥 어렵지만,,, 영어로 되어있지만,,, 그냥 공식문서를 들이받아봤다. 처음에는 아,,, 그냥 블로그 볼까 했지만 점차 익숙해지고, 믿을만 한 문서니까 더욱 세세하게 찾아보았다. 블로그나 GPT를 보면 과정중에 이해가 되지 않더라도, 그냥 넘어가게 되고 ctrl+c, ctrl+v 만 반복했는데 공식문서를 보니 꼼꼼히 알아보고, 공부하게 되었다. 그리고 빡세게 공부하고 나니 얻는 것도 많았다. 야근도 많이하고,,, 많이 아프기도 했지만,,, 결국 업그레이드를 성공했다!!! 느낀 점 부모님의 노고를 깨달음 인턴을 하며 가장 크게 느낀 것은 ‘부모님이 대단하다.’ 였다. 나는 고작 4개월 정도를 하면서도 출퇴근길 (지옥철 9호선 급행 - 8호선)이 힘들다 느꼈는데 거의 30-40년을 하신 부모님이 대단했다. 엄마아빠랑 가장 많은 이야기를 나누고 더욱 친해진 계기가 되었다. ‘어른은 힘들어도 티내지 않는다. 그래야 하루를 살아갈 수 있기 때문에.’ 라는 말을 들은적이 있는데, 그게 부모님께 투영되어 보였다. 끊임없이 배워야하는 직업 나는 일을 하게 되면 ‘공부 끝! 일 시작!’인 줄 알았는데 학교 다닐 때보다 더 많은 공부를 한 것 같다. 실제로 일을 해보니, 나의 부족함이 뼈저리게 느껴졌고, 비슷한 나이대의 직장 동료 분을 보며 많은 반성을 했다. 그리고 학교에서 가르쳐준게 쓸모없지 않았다는 생각이 들었다. 수업 잘 듣길 정말 잘한 것 같다. 성실함의 중요성 매일 아침 1시간 일찍 출근하며 더 많은 것을 배웠다. 부족하다고 느껴지던 공부시간도 확보했고, 미리 자리를 정리하고 일 할 수 있는 세팅을 해두었다. 짧은 기간에 비해 많이 성장하고 배웠다고 느낄 수 있었던 이유가 아닐까. 내 실력에 비해 많은 불만 돌아보니, 내 실력과 일의 무게에 비해 꽤 많은 불만을 가지고 있지 않았나 생각했다. 백엔드를 혼자 맡으면서 부담감은 있었지만, 더욱 즐겁고 긍정적으로 할 수 있었을텐데 생각했다. 물론 맨날 뚱하게 있고 불평불만이 가득한 하루들은 아니었지만, 마인드 셋을 일찍 달리했다면. 이걸 4월 쯤에 깨닫게 된게 참 아쉬웠다. ‘너무 힘들어,,, 내가 이걸 혼자하다니,,,’에서 ‘하고 싶은거, 할 수 있는걸 찾아서 해보자! 그럼 뭐든 배울거야!’ 라고 생각을 달리하면서, 서버 구조도 바꿀 수 있었고, 여러가지 제안도 하고 능동적인 사람이 되었다. 이 글을 쓰는 이유는 이 마음가짐이 평생 변치 않았으면 하는 다짐을 하기 위함이다. 사회생활은 처음이라서!! 처음 회사에 갔는데, 정말 정말 정말 무서웠다. 알바나 교내 근로를 해봤지만, 사회생활을 제대로 하는게 처음이었기 때문에 상사분들께 어떻게 말을 해야하는 지도 몰랐다. ‘이렇게 말하면 예의가 없나?’ 라는 생각을 매번하며 조심스럽게 다가갔던 기억이 난다. 그래도 정말 좋은 분들과 일하게 되어서 많이 물어보고 배울 수 있었다. 특히 팀장님께 많이 여쭤보고 많이 배웠다."
+  },"/jekyll/2023-12-12-footnotes.html": {
     "title": "Using Footnotes",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/jekyll/2023-12-12-footnotes.html",
+    "url": "/jekyll/2023-12-12-footnotes.html",
     "body": "This jekyll-theme supports MathJax to render footnotes in markdown. e.g., The well known Pythagorean theorem $x^2 + y^2 = z^2$ was proved to be invalid for other exponents[^1]. Meaning the next equation has no integer solutions: $$ x^n + y^n = z^n $$ The well known Pythagorean theorem $x^2 + y^2 = z^2$ was proved to be invalid for other exponents1. Meaning the next equation has no integer solutions: \\[x^n + y^n = z^n\\] Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem &#8617;"
-  },"/byeoneunyoung.github.io/jekyll/2023-10-14-math-latex.html": {
+  },"/jekyll/2023-10-14-math-latex.html": {
     "title": "MathJax and LaTeX",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/jekyll/2023-10-14-math-latex.html",
+    "url": "/jekyll/2023-10-14-math-latex.html",
     "body": "This jekyll-theme supports MathJax to render $\\LaTeX$ and mathematics expressions. TIP Currently, Kramdown uses double dollar sign delimiters for inline and display math: https://kramdown.gettalong.org/syntax.html#math-blocks. e.g., The well known Pythagorean theorem $x^2 + y^2 = z^2$ was proved to be invalid for other exponents. Meaning the next equation has no integer solutions: $$ x^n + y^n = z^n $$ The well known Pythagorean theorem $x^2 + y^2 = z^2$ was proved to be invalid for other exponents. Meaning the next equation has no integer solutions: \\[x^n + y^n = z^n\\] Another example with more complex markups: When $a \\ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are $$x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}.$$ When $a \\ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are \\[x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}.\\] Refer to the MathJax website for more examples."
-  },"/byeoneunyoung.github.io/jekyll/2023-08-31-mermaid.html": {
+  },"/jekyll/2023-08-31-mermaid.html": {
     "title": "Diagrams with mermaid.js",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/jekyll/2023-08-31-mermaid.html",
+    "url": "/jekyll/2023-08-31-mermaid.html",
     "body": "This jekyll-theme supports mermaid.js to render diagrams in markdown. To enable the mermaid support, you need to set mermaid: true in the front matter of your post. --- title: Diagrams with mermaid.js date: 2023-08-31 layout: post mermaid: true --- Then you can use mermaid syntax in your markdown: graph TD; A--&gt;B; A--&gt;C; B--&gt;D; C--&gt;D; graph TD; A--&gt;B; A--&gt;C; B--&gt;D; C--&gt;D; Or, even some complex examples: sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;John: Hello John, how are you? loop Healthcheck John-&gt;&gt;John: Fight against hypochondria end Note right of John: Rational thoughts &lt;br/&gt;prevail! John--&gt;&gt;Alice: Great! John-&gt;&gt;Bob: How about you? Bob--&gt;&gt;John: Jolly good! sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;John: Hello John, how are you? loop Healthcheck John-&gt;&gt;John: Fight against hypochondria end Note right of John: Rational thoughts &lt;br/&gt;prevail! John--&gt;&gt;Alice: Great! John-&gt;&gt;Bob: How about you? Bob--&gt;&gt;John: Jolly good! Refer to the mermaid.js website for more examples."
-  },"/byeoneunyoung.github.io/jekyll/2022-06-30-tips_warnings_dangers.html": {
+  },"/jekyll/2022-06-30-tips_warnings_dangers.html": {
     "title": "Tips, Warnings, and Dangers",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/jekyll/2022-06-30-tips_warnings_dangers.html",
+    "url": "/jekyll/2022-06-30-tips_warnings_dangers.html",
     "body": "This jekyll-theme supports tips, warnings, and dangers blocks and the style is referred from the discord.js website. You could have the following markdown attributes (supported by kramdown): Tips Using a {: .block-tip} attribute: &gt; ##### TIP &gt; &gt; This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have &gt; this or a similar version after installation. {: .block-tip } TIP This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have this or a similar version after installation. Warnings Using a {: .block-warning} attribute: &gt; ##### WARNING &gt; &gt; Be sure that you're familiar with things like async/await and object destructuring &gt; before continuing, as we'll be making use of features like these. {: .block-warning } WARNING Be sure that you’re familiar with things like async/await and object destructuring before continuing, as we’ll be making use of features like these. Dangers Using a {: .block-danger} attribute: &gt; ##### DANGER &gt; &gt; You cannot delete an ephemeral message. {: .block-danger } DANGER You cannot delete an ephemeral message."
-  },"/byeoneunyoung.github.io/jekyll/2022-06-26-wide_tables.html": {
+  },"/jekyll/2022-06-26-wide_tables.html": {
     "title": "Wide tables",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/jekyll/2022-06-26-wide_tables.html",
+    "url": "/jekyll/2022-06-26-wide_tables.html",
     "body": "A wide tables needs to be wrapped into a div with class table-wrapper to make sure it displayed as expected on mobile devices. For example, &lt;div class=\"table-wrapper\" markdown=\"block\"&gt; |title1|title2|title3|title4|title5|title6|title7|title8| |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:| |1|2|3|4|5|6|7|8| |1|2|3|4|5|6|7|8| |1|2|3|4|5|6|7|8| |1|2|3|4|5|6|7|8| &lt;/div&gt; Will be rendered as title1 title2 title3 title4 title5 title6 title7 title8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8"
-  },"/byeoneunyoung.github.io/jekyll/2022-05-24-page_cover.html": {
+  },"/jekyll/2022-05-24-page_cover.html": {
     "title": "Page with cover image",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/jekyll/2022-05-24-page_cover.html",
+    "url": "/jekyll/2022-05-24-page_cover.html",
     "body": "The jekyll-gitbook theme supports adding a cover image to a specific page by adding a cover field to the page metadata: --- title: Page with cover image author: Tao He date: 2022-05-24 category: Jekyll layout: post + cover: /assets/jekyll-gitbook/dinosaur.gif ---"
-  },"/byeoneunyoung.github.io/jekyll/2021-08-10-toc.html": {
+  },"/jekyll/2021-08-10-toc.html": {
     "title": "How to Generate TOC",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/jekyll/2021-08-10-toc.html",
+    "url": "/jekyll/2021-08-10-toc.html",
     "body": "The jekyll-gitbook theme leverages jekyll-toc to generate the Contents for the page. The TOC feature is not enabled by default. To use the TOC feature, modify the TOC configuration in _config.yml: toc: enabled: true Why this repo long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8 Why this repo long contents ….. a b c d Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8 Why this repo long contents ….. a b c d Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8 Why this repo long contents ….. a b c d Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8"
-  },"/byeoneunyoung.github.io/jekyll/2019-04-29-license.html": {
+  },"/jekyll/2019-04-29-license.html": {
     "title": "License",
     "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/jekyll/2019-04-29-license.html",
+    "url": "/jekyll/2019-04-29-license.html",
     "body": "This work is open sourced under the Apache License, Version 2.0, using the same license as the original GitBook repository. Copyright 2019 Tao He."
-  },"/byeoneunyoung.github.io/jekyll/2019-04-28-howto.html": {
-    "title": "How to Get Started",
-    "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/jekyll/2019-04-28-howto.html",
-    "body": "The jekyll-gitbook theme can be used just as other Jekyll themes and support remote theme on Github Pages, see the official guide as well. You can introduce this jekyll theme into your own site by either Fork this repository and add your markdown posts to the _posts folder, then push to your own Github repository. Use as a remote theme in your _config.yml(just like what we do for this site itself), # Configurations title: Jekyll Gitbook longtitle: Jekyll Gitbook remote_theme: sighingnow/jekyll-gitbook TIP No need to push generated HTML bundle."
-  },"/byeoneunyoung.github.io/jekyll/2019-04-27-why.html": {
-    "title": "Why Jekyll with GitBook",
-    "keywords": "Jekyll",
-    "url": "/byeoneunyoung.github.io/jekyll/2019-04-27-why.html",
-    "body": "GitBook is an amazing frontend style to present and organize contents (such as book chapters and blogs) on Web. The typical to deploy GitBook at Github Pages is building HTML files locally and then push to Github repository, usually to the gh-pages branch. However, it’s quite annoying to repeat such workload and make it hard for people do version control via git for when there are generated HTML files to be staged in and out. This theme takes style definition out of generated GitBook site and provided the template for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed to Github Pages without generating and uploading HTML bundle every time when there are changes to the original repository."
   }}
